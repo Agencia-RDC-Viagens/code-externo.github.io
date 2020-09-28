@@ -2,3 +2,8 @@
 .tp-bullets.hesperiden.horizontal.nav-pos-hor-center.nav-pos-ver-bottom.nav-dir-horizontal {
     display: none;
 }
+
+.search_engine_v2.custom_engine .tabs {
+    position: relative;
+    top: -64px;
+}
