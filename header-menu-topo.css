@@ -1,0 +1,62 @@
+.logo a {
+    vertical-align: middle !important;
+    height: 67px !important;
+    display: table-cell !important;
+}
+header.main .logo {
+    float: left;
+    margin: 0px;
+    width: 15%;
+    text-align: center;
+    display: inline-block;
+    margin: 0px auto;
+}
+.wrap>.mobile_header.menuLeft {
+    width: 85%;
+    height: 47px;
+    display: block !important;
+    float: left;
+}
+ul#menu-menu-topo {
+    margin: 0px !important;
+    padding: 0px !important;
+    list-style: none !important;
+    display: flex !important;
+    background-color: transparent !important;
+    width: 100% !important;
+}
+#menu-menu-topo li {
+    width: 100% !important;
+    text-align: center !important;
+    position: relative !important;
+    list-style: none !important;
+    display: flex !important;
+}
+
+#menu-menu-topo li a {
+    color: #666;
+    text-decoration: none;
+    display: block;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 10px 5px;
+    margin: 0 auto;
+    line-height: initial;
+    height: auto;
+    cursor: pointer;
+    font-weight: 500;
+}
+header.main ul.aside {
+    padding: 0px !important;
+    height: 47px !important;
+}
+div#nav_menu-4 {
+    width: 90%;
+    float: left;
+    height: 47px;
+}
+div#fidelityLogin {
+    width: 4%;
+    float: left;
+    height: 47px;
+}
