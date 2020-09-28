@@ -6,4 +6,5 @@
 .search_engine_v2.custom_engine .tabs {
     position: relative;
     top: -64px;
+    padding: 0px;
 }
