@@ -1,3 +1,4 @@
+/* --**** DESKTOP ****-- */
 .logo a {
     vertical-align: middle !important;
     height: 67px !important;
@@ -59,3 +60,5 @@ div#fidelityLogin {
     float: left;
     height: 47px;
 }
+
+/* --**** MOBILE ****-- */
