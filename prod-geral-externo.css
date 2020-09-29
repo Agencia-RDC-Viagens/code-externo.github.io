@@ -2,3 +2,20 @@
 .tp-bullets.hesperiden.horizontal.nav-pos-hor-center.nav-pos-ver-bottom.nav-dir-horizontal {
     display: none;
 }
+
+
+
+
+
+.search_engine_v2 {
+    top: -73px;
+    position: relative;
+}
+.search_engine_v2.custom_engine .tabs li{
+    border-radius: 5px 5px 0px 0px;
+    margin: 0px 5px;
+}
+.search_engine_v2.custom_engine .tabs li a{
+    border-radius: 5px 5px 0px 0px;
+    margin: 0px 5px;
+}
