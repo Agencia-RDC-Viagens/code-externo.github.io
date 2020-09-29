@@ -19,7 +19,7 @@ header.main ul.aside {
     width: 70%;
     padding: 0px;
     height: 70px;
-    text-align: right;
+    text-align: left;
     display: inline-table;
 }
 div#fidelityLogin {
