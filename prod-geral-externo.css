@@ -1,11 +1,9 @@
-/* --**** HOME ****-- */
 .tp-bullets.hesperiden.horizontal.nav-pos-hor-center.nav-pos-ver-bottom.nav-dir-horizontal {
     display: none;
 }
-
 .search_engine_v2 {
     width: 66%;
-    left: 36%;
+    left: 59%;
     top: -386px;
     position: relative;
     padding: 0px !important;
@@ -26,6 +24,41 @@
 .motorPrincipalHome .vc_column-inner {
     height: 0px;
 }
+@media(max-width:1366px) {
+    .search_engine_v2 {
+        width: 66%;
+        left: 59%;
+        top: -386px;
+        position: relative;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+}
+
+@media(max-width:1024px) {
+    .search_engine_v2 {
+        width: 66%;
+        left: 59%;
+        top: -386px;
+        position: relative;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+}
+
+@media(max-width:768px) {
+    
+}
+
+@media(max-width:425px) {
+    
+}
+
+
+/* --**** HOME ****-- */
+
+
+
 
 /*
 .search_engine_v2.custom_engine .tabs {
