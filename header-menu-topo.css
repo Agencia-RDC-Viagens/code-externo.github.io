@@ -2,6 +2,7 @@
 
 header.main .wrap {
     height: 70px;
+    max-width: 1140px !important;
 }
 header.main .logo {
     height: 70px;
