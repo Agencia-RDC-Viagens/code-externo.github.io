@@ -15,11 +15,11 @@ header.main .logo {
     vertical-align: middle;
 }
 header.main ul.aside {
-    float: right;
+    float: left;
     width: 70%;
     padding: 0px;
     height: 70px;
-    text-align: left;
+    text-align: right;
     display: inline-table;
 }
 div#fidelityLogin {
