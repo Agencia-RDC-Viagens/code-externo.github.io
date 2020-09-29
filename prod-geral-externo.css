@@ -24,7 +24,7 @@
 .motorPrincipalHome .vc_column-inner {
     height: 0px;
 }
-@media(max-width:1366px) {
+@media screen and (max-width:1366px) {
     .search_engine_v2 {
         width: 66%;
         left: 37%;
@@ -35,7 +35,7 @@
     }
 }
 
-@media(max-width:1024px) {
+@media screen and (max-width:1024px) {
     .search_engine_v2 {
         width: 80%;
         left: 19%;
@@ -46,11 +46,11 @@
     }
 }
 
-@media(max-width:768px) {
+@media screen and (max-width:768px) {
     
 }
 
-@media(max-width:425px) {
+@media screen and (max-width:425px) {
     
 }
 
