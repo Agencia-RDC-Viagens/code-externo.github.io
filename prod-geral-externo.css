@@ -3,6 +3,109 @@
     display: none;
 }
 
+.search_engine_v2 {
+    top: -434px;
+    position: relative;
+    width: 65%;
+    /* background-color: rgba(255, 255, 255, 0.9); */
+    left: 44%;
+}
+
+/*
+.search_engine_v2.custom_engine .tabs {
+    position: relative;
+    top: -64px;
+    padding: 0px;
+}
+.search_engine_v2.custom_engine > .content {
+    float: none;
+}
+.radio.way {
+    height: 30px;
+}
+.search_engine_v2 >.content .radio.way label {
+    padding-right: 20px;
+    width: auto !important;
+    height: 30px;
+    display: table-cell;
+    vertical-align: middle;
+    top: -50px;
+}
+.search_engine_v2.custom_engine .tabs li a {
+    border-radius: 10px 10px 0px 0px;
+}
+ 
+
+.vc_separator_align_right, .vc_separator_align_left h4{
+    font-size: 2rem;
+}
+
+.promotions figure img {
+    width: 309px;
+    height: 165px;
+}
+
+.card-list__subtitle{
+    color: #ccc !important;
+    width: 100% !important;
+    display: inline-block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    outline: 0 !important;
+    font-weight: inherit !important;
+    font-style: inherit !important;
+    font-size: 100% !important;
+    font-family: inherit !important;
+    vertical-align: baseline !important;
+    -webkit-box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    white-space: normal !important;
+    margin-bottom: 20px !important;
+}
+.card-list__title{
+    font-size: 25px;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: 0 !important;
+    outline: 0 !important;
+    font-weight: inherit !important;
+    font-style: inherit !important;
+    font-family: inherit !important;
+    vertical-align: baseline !important;
+    -webkit-box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    white-space: normal !important;
+    margin-bottom: 10px !important;
+}
+
+.price_conection{
+    width: auto !important;
+    display: flex !important;
+    height: 26px !important;
+    vertical-align: bottom !important;
+    float: left;
+    padding: 10px 5px 10px 0px !important
+}
+strong.total {
+    padding: 0px !important;
+    vertical-align: text-bottom!important;
+    height: auto !important;
+    width: auto !important;
+    display: flex !important;
+    height: 26px !important;
+    vertical-align: bottom !important;
+    float: left;
+    padding: 2px 5px 10px 0px !important;
+}
+h3.obs {
+    margin: 0px !important;
+    padding: 10px 0px 5px 10px !important;
+    font-weight: bold !important;
+}
 
 
 
@@ -19,3 +122,5 @@
     border-radius: 5px 5px 0px 0px;
     margin: 0px 5px;
 }
+
+*/
