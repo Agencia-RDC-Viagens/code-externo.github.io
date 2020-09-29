@@ -2,36 +2,3 @@
 .tp-bullets.hesperiden.horizontal.nav-pos-hor-center.nav-pos-ver-bottom.nav-dir-horizontal {
     display: none;
 }
-
-.search_engine_v2.custom_engine .tabs {
-    position: relative;
-    top: -64px;
-    padding: 0px;
-}
-.search_engine_v2.custom_engine > .content {
-    float: none;
-}
-.radio.way {
-    height: 30px;
-}
-.search_engine_v2 >.content .radio.way label {
-    padding-right: 20px;
-    width: auto !important;
-    height: 30px;
-    display: table-cell;
-    vertical-align: middle;
-    top: -50px;
-}
-.search_engine_v2.custom_engine .tabs li a {
-    border-radius: 10px 10px 0px 0px;
-}
- 
-/* */
-.vc_separator_align_right, .vc_separator_align_left h4{
-    font-size: 2rem;
-}
-
-.promotions figure img {
-    width: 309px;
-    height: 165px;
-}
