@@ -4,16 +4,24 @@
 }
 
 .search_engine_v2 {
-    top: -434px;
+    top: -386px;
     position: relative;
     width: 65%;
-    /* background-color: rgba(255, 255, 255, 0.9); */
-    left: 44%;
+    left: 42%;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.search_engine_v2.custom_engine .tabs {
+    padding: 0px;
 }
 .search_engine_v2.custom_engine .tabs li a {
     border-left: 5px solid transparent;
     border-right: 5px solid transparent;
     background-color: rgba(255, 255, 255, 0.9);
+}
+.search_engine_v2.custom_engine > .content {
+    padding: 15px;
+    background-color: rgba(36,0,246,0.7);
 }
 .motorPrincipalHome .vc_column-inner {
     height: 0px;
