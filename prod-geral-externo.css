@@ -25,3 +25,8 @@
 .search_engine_v2.custom_engine .tabs li a {
     border-radius: 10px 10px 0px 0px;
 }
+ 
+/* */
+vc_separator_align_right h4, .vc_separator_align_left h4{
+    font-size: 2rem;
+}
