@@ -4,10 +4,10 @@
 }
 
 .search_engine_v2 {
+    width: 66%;
+    left: 34%;
     top: -386px;
     position: relative;
-    width: 65%;
-    left: 42%;
     padding: 0px !important;
     margin: 0px !important;
 }
