@@ -34,7 +34,16 @@
         margin: 0px !important;
     }
 }
-
+@media screen and (max-width:1280px) {
+    .search_engine_v2 {
+        width: 66%;
+        left: 33%;
+        top: -386px;
+        position: relative;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+}
 @media screen and (max-width:1024px) {
     .search_engine_v2 {
         width: 80%;
