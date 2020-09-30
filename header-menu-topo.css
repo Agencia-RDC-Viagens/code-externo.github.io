@@ -58,6 +58,7 @@ header.have_sidebar.main.menu_03 {
     header.main .logo a img.mobile {
         margin: 0px;
         max-width: 120px !important;
+        margin-left: 10px;
     }
     .mobile_header.menuLeft {
         float: left;
@@ -102,7 +103,7 @@ header.have_sidebar.main.menu_03 {
         width: 100%;
         margin: 0px auto;
         position: relative;
-        left: 50px;
+        left: 80px;
     }
     button.showLoginForm.customBotaoAreaRestrita.btn.enter.send {
         background-color: #fff;
