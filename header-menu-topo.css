@@ -40,6 +40,10 @@ header.have_sidebar.main.menu_03 {
 
 /* --**** MOBILE ****-- */
 @media screen and (max-width:425px) {
+    header.main {
+        height: 60px;
+        background-color: #2400f6;
+    }
     header.main .wrap {
         height: 60px;
         max-width: 1140px !important;
@@ -63,7 +67,6 @@ header.have_sidebar.main.menu_03 {
     }
 
     .touch.menu_open {
-        border: 1px solid #fff;
         left: 368px;
         top: 20px;
     } 
@@ -99,5 +102,12 @@ header.have_sidebar.main.menu_03 {
         margin: 0px auto;
         position: relative;
         left: 50px;
+    }
+    button.showLoginForm.customBotaoAreaRestrita.btn.enter.send {
+        background-color: #fff;
+        color: #2400f6;
+        padding: 4px 20px;
+        font-weight: 600;
+        font-family: Roboto;
     }
 }
