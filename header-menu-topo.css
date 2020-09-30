@@ -114,4 +114,7 @@ header.have_sidebar.main.menu_03 {
         font-weight: 600;
         font-family: Roboto;
     }
+    .container>.mobile_header {
+        height: 0px;
+    }
 }
