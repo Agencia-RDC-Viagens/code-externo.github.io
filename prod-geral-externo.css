@@ -22,6 +22,7 @@
 .search_engine_v2.custom_engine > .content {
     padding: 15px;
     background-color: rgba(36,0,246,0.7);
+    min-height: 351px;
 }
 .motorPrincipalHome .vc_column-inner {
     height: 0px;
