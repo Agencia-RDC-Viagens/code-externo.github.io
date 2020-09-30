@@ -63,7 +63,147 @@
 }
 
 @media screen and (max-width:425px) {
+    /* Inicio dos Botoes */
+    div#searchEngine{
+        width: 100% !important;
+        margin: 0px !important;
+        padding: 0px !important;
+        height: max-content !important;
+        display: block !important;
+    }
+    /* #searchEngine {
+        width: 100% !important;
+        margin: 0px !important;
+        padding: 0px !important;
+        height: max-content !important;
+        display: block !important;
+    } */
+    #searchEngine .tabs {
+        width: 100% !important;
+        height: 69px !important;
+        display: block !important;
+        position: absolute !important;
+        left: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px !important;
+        top: 0px;
+        box-shadow: 0 4px 5px 0 rgba(36, 0, 246,.6) !important;
+    }
+    #searchEngine .tabs li {
+        background-color: #fff !important;
+        padding: 0px !important;
+        margin: 0px !important;
+        display: table-cell !important;
+        vertical-align: middle !important;
+        width: 16.6% !important;
+        border-radius: 0px !important;
+        border-bottom: 1px solid #2400f6 !important;
+    }
+    #searchEngine .tabs li a {
+        background-color: #fff !important;
+        color: #666 !important;
+        width: 100% !important;
+        height: min-content !important;
+        text-align: center !important;
+        line-height: 200% !important;
+        font-size: 11px !important;
+        text-transform: none !important;
+        font-weight: normal !important;
+        margin: 0px auto !important;
+        padding: 10px 5px 5px 5px !important;
+    }
+    #searchEngine span.ico {
+        padding-bottom: 5px !important;
+        display: table-cell !important;
+        width: 30px !important;
+        height: 30px !important;
+        border: 1px solid #777 !important;
+        border-radius: 12px;
+        padding: 0px !important;
+        vertical-align: middle !important;
+        margin: 0px !important;
+        left: 18px !important;
+        position: relative !important;
+    }
+    #searchEngine .ico:before {
+        color: #666 !important;
+    }
     
+    #searchEngine.motor_tab_top.show_tabs .tabs li.active a {
+        background: #2400f6 !important;
+        color: #fff !important;
+        font-weight: 700 !important;
+        font-size: 14px !important;
+    }
+    
+    #searchEngine.motor_tab_top.show_tabs .tabs li.active a span.ico {
+        border: 1px solid #fff !important;
+        color: #fff !important;
+    }
+    #searchEngine.motor_tab_top.show_tabs .tabs li.active a span.ico::before {
+        color: #fff !important;
+    }
+    /* Termino dos Botoes */
+    #searchEngine.motor_tab_top.show_tabs > .content {
+        margin-top: 66px !important;
+        background-color: #fff;
+        padding: 10px;
+        box-shadow: 0 4px 5px 0 rgba(63,63,63,.6) !important;
+    }
+    .radio.way {
+        color: #777 !important;
+        text-align: center;
+        display: block;
+        width: 106%;
+        position: relative;
+        left: -10px;
+    }
+    .search_engine_v2 >.content .radio.way label * {
+        cursor: pointer;
+        color: #666666;
+    }
+    .search_engine_v2 >.content label p {
+        color: #666666 !important;
+    }
+    a.clearSearchParams.clear {
+        background: #2400f6 !important;
+        text-transform: none !important;
+        font-weight: normal !important;
+        left: 294px !important;
+        top: 9px  !important;
+        border-radius: 5px !important;
+    }
+    
+    #searchEngine input {
+        height: 40px !important;
+        font-size: 15px !important;
+    }
+    .search_engine_v2 >.content .radio.way label {
+        padding-right: 0px !important;
+        width: 130px !important;
+        display: table-cell !important;
+        vertical-align: middle !important;
+        height: 40px !important;
+        border-right: 1px solid #999;
+    }
+    .search_engine_v2 >.content label p {
+        color: #666 !important;
+    }
+    .search_engine_v2.air.label_top .passengers label small, .search_engine_v2.hotel>.content .rooms>li label p small {
+        color: #666 !important;
+    }
+    .search_engine_v2 >.content .advanced.settings {
+        display: none !important;
+    }
+    .search_engine_v2 >.content .radio.way label input[type="radio"] + span::before {
+        display: none !important;
+    }
+    .vc_row.wpb_row.vc_row-fluid.fullsize {
+        background-color: #ebebeb !important;
+    }
+    #searchEngine >.content.hotel, .content.service, .content.package , .content.tour{
+        padding-top: 20px !important;
+    }
 }
 
 
