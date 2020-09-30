@@ -1,6 +1,10 @@
 .tp-bullets.hesperiden.horizontal.nav-pos-hor-center.nav-pos-ver-bottom.nav-dir-horizontal {
     display: none;
 }
+.sliderPersonalizado {
+    height: 442px;
+    margin-bottom: 0px;
+}
 .search_engine_v2 {
     width: 66%;
     left: 43%;
