@@ -70,6 +70,7 @@ header.have_sidebar.main.menu_03 {
     .touch.menu_open {
         left: 368px;
         top: 20px;
+        border: solid #fff;
     } 
     .touch.menu_open:before {
         content: "";
