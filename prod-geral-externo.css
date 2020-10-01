@@ -38,12 +38,13 @@
 }
 @media screen and (max-width:1280px) {
     .search_engine_v2 {
-        width: 52%;
-        left: 47.5%;
-        top: -392px;
-        position: relative;
+        width: 47%;
+        left: 53%;
+        top: -415px;
+        position: absolute;
         padding: 0px !important;
         margin: 0px !important;
+        z-index: 9999;
     }
 }
 @media screen and (max-width:1024px) {
