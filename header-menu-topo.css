@@ -156,6 +156,26 @@ header.have_sidebar.main.menu_03 {
         top: 0;
         margin: 0px auto;
     }
+    .label-hamburger{
+        display: inline-flex;
+        position: relative;
+        top: -47px;
+        left: 360px;
+        border: 1px solid #fff;
+        border-radius: 20px;
+    }
+    i.icon-list{
+        height: 100%;
+        width: 100%;
+        display: table-cell;
+    }
+    .icon-list:before {
+        content: "\e90c";
+        color: #fff;
+        margin: 0px;
+        padding: 0px;
+        font-size: 30px;
+    }
     div#fidelityLogin {
         height: 60px;
         display: table-cell;
