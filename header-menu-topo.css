@@ -299,6 +299,7 @@ header.have_sidebar.main.menu_03 {
         -o-transition: all 300ms ease;
         left: -300%;
         z-index: 9;
+        height: 100%;
       }
       #menu-hamburguer:checked~#nav-menu-mobile {
         left: 0;
