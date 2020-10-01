@@ -85,6 +85,9 @@ label.lblPassword.password:before {
     text-align: left;
     color: #fff;
 }
+.logged_in {
+    display: contents;
+}
 /* -**-- FIM LOGIN --**- */
 
 header.have_sidebar.main.menu_03 {
