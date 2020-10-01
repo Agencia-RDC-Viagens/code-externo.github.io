@@ -300,6 +300,9 @@ header.have_sidebar.main.menu_03 {
       #menu-hamburguer:checked~#nav-menu-mobile {
         left: 0;
       }
+      #show_menu:checked~#nav-menu-mobile {
+        left: 0;
+      }
       .close{
         display: inline-block;
         font-size: 0;
