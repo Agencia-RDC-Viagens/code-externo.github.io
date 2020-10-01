@@ -204,6 +204,9 @@ header.have_sidebar.main.menu_03 {
       }
   
       /* Menu principal */
+      .topoMenuMobile{
+          text-align: center !important;
+      }
       #menu-principal-mobile {
         background-color: #2400f6 !important;
         width: 70% !important;
@@ -317,6 +320,7 @@ header.have_sidebar.main.menu_03 {
       .redes-sociais {
         height: 100%;
         padding: 20px 0px;
+        text-align: center;
       }
       #menu-principal-mobile table {
         width: 100% !important;
@@ -349,5 +353,6 @@ header.have_sidebar.main.menu_03 {
       }
       #menu-principal-mobile i::before {
         color: #fff !important;
+        font-size: 30px;
       }
 }
