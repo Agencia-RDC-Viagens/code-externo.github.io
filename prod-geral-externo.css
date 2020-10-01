@@ -162,10 +162,13 @@
     a.clearSearchParams.clear {
         background: #2400f6 !important;
         text-transform: none !important;
-        font-weight: normal !important;
-        left: 294px !important;
-        top: 9px  !important;
         border-radius: 5px !important;
+        color: #fff;
+        padding: 15px;
+        font-weight: 500 !important;
+        display: inherit;
+        margin-top: 10px;
+        float: right;
     }
     
     #searchEngine input {
