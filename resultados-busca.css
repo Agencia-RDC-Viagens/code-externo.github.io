@@ -35,7 +35,10 @@
     position: static;
     margin: 0px;
 }
-
+.destinationContainer {
+    margin: 0px !important;
+    padding: 0px !important;
+}
 /* INICIO HOTEL */
 
 /* INICIO PACOTE */
