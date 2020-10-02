@@ -41,13 +41,20 @@
     margin: 0px !important;
     padding: 0px !important;
 }
-@media screen and (max-width: 700px)
+@media screen and (max-width: 700px){
     .flight .touch.filter_open {
         font-size: 0;
         position: absolute;
         right: 16px;
-        top: 122px;
+        top: 107px;
         z-index: 600;
+        display: table-cell;
+        vertical-align: middle;
+    }
+    .flight .touch.filter_open:before{
+        font-size: 20px;
+        vertical-align: middle;
+        height: 52px;
     }
 }
 /* INICIO HOTEL */
