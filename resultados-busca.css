@@ -48,6 +48,18 @@
     height: 30px;
     vertical-align: middle;
 }
+.search_engine_v2.hotel label.select:after {
+    background-color: blue !important;
+}
+.research.search_engine_v2.hotel >.content .travelers {
+    width: 100%;
+}
+.research.search_engine_v2.hotel >.content .travelers .content {
+    display: block;
+    width: 100%;
+    float: left;
+    border: 1px solid #fff;
+}
 .research.search_engine_v2.hotel >.content .travelers .content .qtdaRoom.rooms_number.select p {
     color: #FFF;
     font-size: 13px;
