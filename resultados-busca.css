@@ -49,7 +49,7 @@
     vertical-align: middle;
 }
 .search_engine_v2.hotel label.select:after {
-    background-color: blue !important;
+    background-color: transparent !important;
 }
 .research.search_engine_v2.hotel >.content .travelers {
     width: 100%;
