@@ -308,12 +308,15 @@ header.have_sidebar.main.menu_03 {
         left: 0;
       }
       .close{
-        display: inline-block;
+        display: block;
         font-size: 0;
         height: 100%;
-        width: 100%;
+        width: 30%;
         cursor: pointer;
-        position: absolute;
+        position: initial;
+        margin: 0px;
+        padding: 0px;
+        float: right;
       }
       
   
