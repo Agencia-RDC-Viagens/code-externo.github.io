@@ -88,6 +88,7 @@
     white-space: initial;
     float: left;
     width: 33.33%;
+    border-right: 0px solid #d9d9d9;
 }
 .research.search_engine_v2.hotel >.content .travelers .content ul.rooms{
     width: 100%;
