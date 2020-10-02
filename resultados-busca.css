@@ -70,6 +70,26 @@
     font-size: 13px;
     text-align: left;
 }
+.research.search_engine_v2.hotel >.content .travelers .content ul.rooms > li > strong {
+    float: left;
+    height: auto;
+    line-height: inherit;
+    margin: 0px;
+    padding: 5px;
+    width: 100%;
+    text-align: left;
+    font-size: 13px;
+}
+.research.search_engine_v2.hotel >.content .travelers .content ul.rooms > li {
+    display: block !important;
+    list-style: outside none none;
+    margin: 0px;
+    padding: 0px;
+    white-space: initial;
+    float: left;
+    width: 33.33%;
+    border-right: 1px solid #d9d9d9;
+}
 /* INICIO PACOTE */
 div#searchEngine .package {
     height: 70px;
