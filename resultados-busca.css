@@ -41,6 +41,15 @@
     margin: 0px !important;
     padding: 0px !important;
 }
+@media screen and (max-width: 700px)
+    .flight .touch.filter_open {
+        font-size: 0;
+        position: absolute;
+        right: 16px;
+        top: 122px;
+        z-index: 600;
+    }
+}
 /* INICIO HOTEL */
 .hotel >.content .advanced.travelers >label {
     font-weight: 600;
