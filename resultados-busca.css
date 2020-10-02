@@ -62,8 +62,10 @@
 }
 .research.search_engine_v2.hotel >.content .travelers .content .qtdaRoom.rooms_number.select p {
     color: #FFF;
-    font-size: 13px;
+    font-size: 15px;
     text-align: left;
+    padding-bottom: 4px;
+    display: inline-table;
 }
 .research.search_engine_v2.hotel >.content .travelers .content ul.rooms > li > label small {
     color: #FFF;
@@ -88,6 +90,10 @@
     float: left;
     width: 33.33%;
     border-right: 1px solid #d9d9d9;
+}
+.research.search_engine_v2.hotel >.content .travelers .content .qtdaRoom.rooms_number.select >select {
+    width: 60px;
+    margin-left: 0px;
 }
 /* INICIO PACOTE */
 div#searchEngine .package {
