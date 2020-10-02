@@ -1,4 +1,5 @@
 /* INICIO AEREO */
+/*
 .list_options.flights > .price_group {
     background: #fff;
     -ms-box-sizing: border-box;
@@ -12,6 +13,7 @@
     width: 100%;
     min-height: 318px;
 }
+*/
 .list_options.flights > li .price .select_btn {
         background: #fe7000 !important;
 }
