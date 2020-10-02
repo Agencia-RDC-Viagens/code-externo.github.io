@@ -44,9 +44,9 @@
 @media screen and (max-width: 700px){
     .flight .touch.filter_open {
         font-size: 0;
-        position: absolute;
-        right: 16px;
-        top: 107px;
+        position: relative;
+        left: 349px;
+        top: -62px;
         z-index: 600;
         display: table-cell;
         vertical-align: middle;
@@ -61,7 +61,7 @@
         position: relative;
         top: 10px;
     }
-    .content_results.flight >header .pax {
+    .content_results.flight >header .pax {  
         border-top: 0px solid rgba(119,119,119,0.1);
         position: relative;
         left: -75px;
