@@ -64,6 +64,7 @@
     text-align: left;
     padding-bottom: 4px;
     display: inline-table;
+    top: 6px;
 }
 .research.search_engine_v2.hotel >.content .travelers .content ul.rooms > li > label small {
     color: #FFF;
