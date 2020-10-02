@@ -65,6 +65,11 @@
     font-size: 13px;
     text-align: left;
 }
+.research.search_engine_v2.hotel >.content .travelers .content ul.rooms > li > label small {
+    color: #FFF;
+    font-size: 13px;
+    text-align: left;
+}
 /* INICIO PACOTE */
 div#searchEngine .package {
     height: 70px;
