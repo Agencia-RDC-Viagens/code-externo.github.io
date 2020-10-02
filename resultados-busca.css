@@ -81,7 +81,6 @@
     font-size: 13px;
 }
 .research.search_engine_v2.hotel >.content .travelers .content ul.rooms > li {
-    display: block !important;
     list-style: outside none none;
     margin: 0px;
     padding: 0px;
